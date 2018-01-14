@@ -9,4 +9,4 @@ console.log(param);
 
 console.log(cmi);
 
-console.log(git);
+//texst
