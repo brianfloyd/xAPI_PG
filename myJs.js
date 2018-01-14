@@ -7,6 +7,5 @@ console.log(param);
 
 }
 
-console.log(cmi);
+/// this is a test
 
-//texst
